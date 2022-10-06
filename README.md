@@ -1,16 +1,29 @@
-### Hi there 👋
+# Oi, sou Layrton Silva.
 
-<!--
-**layrtonz/layrtonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/layrtonz/)
+[![followersGit](https://img.shields.io/github/followers/objpedro?style=social)](https://github.com/layrtonz)
+<img src="https://komarev.com/ghpvc/?username=layrtonz&label=Visitantes&color=0e75b6&style=social" alt="Layrton Silva" />
+![DevMobile](https://img.shields.io/badge/Desenvolvedor-React-blue)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Estudando Desenvolvimento em ReactJS
+- :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas
+- 📚 Estudando Git, GitHub e Linux
+
+<br/>
+ 
+## Tecnologias, Ferramentas e Linguagens
+
+<div style="display: inline_block">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+</div><br/>
+
+## Meus Status
+<div align="left">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layrtonz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=layrtonz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</div><br>
