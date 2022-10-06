@@ -1,7 +1,7 @@
 # Oi, sou Layrton Silva.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/layrtonz/)
-[![followersGit](https://img.shields.io/github/followers/objpedro?style=social)](https://github.com/layrtonz)
+[![followersGit](https://img.shields.io/github/followers/layrtonz?style=social)](https://github.com/layrtonz)
 <img src="https://komarev.com/ghpvc/?username=layrtonz&label=Visitantes&color=0e75b6&style=social" alt="Layrton Silva" />
 ![DevMobile](https://img.shields.io/badge/Desenvolvedor-React-blue)
 
@@ -24,6 +24,6 @@
 
 ## Meus Status
 <div align="left">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layrtonz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=layrtonz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layrtonz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>	
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=layrtonz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
 </div><br>
