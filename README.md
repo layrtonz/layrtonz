@@ -8,7 +8,7 @@
 
 - 💻 Desenvolvidor ReactJS
 - :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas
-- 📚 Estudando Git, GitHub, Angular e
+- 📚 Estudando Git, GitHub e Angular.
 
 <br/>
  
