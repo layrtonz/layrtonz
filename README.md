@@ -6,7 +6,7 @@
 ![DevMobile](https://img.shields.io/badge/Desenvolvedor-React-blue)
 
 
-- 💻 Desenvolvidor ReactJS
+- 💻 Desenvolvedor ReactJS
 - :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Git, GitHub e Angular.
 
