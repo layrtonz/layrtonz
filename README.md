@@ -10,7 +10,6 @@
 - :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas
 - ⚙ Estudando Engenharia de Software
 - 📚 Estudando Git, GitHub e Angular.
-- 
 
 <br/>
  
