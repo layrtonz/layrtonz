@@ -21,6 +21,8 @@
  <img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+ 
 </div><br/>
 
 ## Meus Status
