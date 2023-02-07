@@ -22,6 +22,7 @@
  <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+ <img width="5%" src="[https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.sv](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)">
  
 </div><br/>
 
