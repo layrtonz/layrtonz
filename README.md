@@ -9,7 +9,6 @@
 - 💻 Desenvolvedor ReactJS
 - :mortar_board: Graduando em Análise e Desenvolvimento de Sistemas
 - ⚙ Estudando Engenharia de Software
-- 📚 Estudando Git, GitHub.
 
 <br/>
  
@@ -23,6 +22,8 @@
  <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+ 
  
 </div><br/>
 
