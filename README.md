@@ -3,7 +3,7 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/layrtonz/)
 [![followersGit](https://img.shields.io/github/followers/layrtonz?style=social)](https://github.com/layrtonz)
 <img src="https://komarev.com/ghpvc/?username=layrtonz&label=Visitantes&color=0e75b6&style=social" alt="Layrton Silva" />
-![DevMobile](https://img.shields.io/badge/Desenvolvedor-React-blue)
+![DevMobile](https://img.shields.io/badge/Desenvolvedor-Angular-Red)
 
 
 - 💻 Front-end developer in Angular 
