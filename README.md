@@ -6,7 +6,7 @@
 ![DevMobile](https://img.shields.io/badge/Desenvolvedor-Angular-Red)
 
 
-- 💻 Front-end developer in Angular 
+- 💻 Front-end developer in React 
 
 <br/>
  
