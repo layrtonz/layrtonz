@@ -13,11 +13,9 @@
 ## Tecnologias, Ferramentas e Linguagens
 
 <div style="display: inline_block">
- <img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
- <img width="5%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 
