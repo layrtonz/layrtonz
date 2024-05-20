@@ -3,7 +3,7 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/layrtonz/)
 [![followersGit](https://img.shields.io/github/followers/layrtonz?style=social)](https://github.com/layrtonz)
 <img src="https://komarev.com/ghpvc/?username=layrtonz&label=Visitantes&color=0e75b6&style=social" alt="Layrton Silva" />
-![DevMobile](https://img.shields.io/badge/Desenvolvedor-Angular-Red)
+![DevMobile](https://img.shields.io/badge/Desenvolvedor-Python-Red)
 
 
 - 💻 Analise e Desenvolvimento de Sistemas
@@ -21,7 +21,7 @@
  <img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
- <img width="5%" src="[https://www.vectorlogo.zone/logos/python/python-icon.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
  
 
  
