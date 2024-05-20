@@ -6,7 +6,9 @@
 ![DevMobile](https://img.shields.io/badge/Desenvolvedor-Angular-Red)
 
 
-- 💻 Front-end developer in React 
+- 💻 Analise e Desenvolvimento de Sistemas
+- 🐍 Desenvolvedor Python 
+  
 
 <br/>
  
@@ -18,6 +20,9 @@
  <img width="5%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
  <img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+ <img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+ <img width="5%" src="[https://www.vectorlogo.zone/logos/python/python-icon.svg](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)">
+ 
 
  
  
