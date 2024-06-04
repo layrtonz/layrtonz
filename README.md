@@ -7,7 +7,7 @@
 
 
 - 💻 Analise e Desenvolvimento de Sistemas
-- 🐍 Desenvolvedor Python 
+- ⚛️ Desenvolvedor React
   
 
 <br/>
