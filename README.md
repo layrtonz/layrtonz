@@ -16,7 +16,7 @@ Cursando Análise e Desenvolvimento de Sistemas e Inglês
 ##
 <br>
 
-[![codewars](https://www.codewars.com/users/layrtonz/badges/micro)](https://www.codewars.com/users/layrtonz)
+[![codewars](https://www.codewars.com/users/layrtonz/badges/large)](https://www.codewars.com/users/layrtonz)
 <div style="display: inline_block">
 <div> 
   <a href="https://www.instagram.com/layrtonz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
