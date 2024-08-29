@@ -1,7 +1,7 @@
 # Oi, sou Layrton Silva.
 
-Desenvolvedor Front-end React, aprendendo Typescript, gosto de alguns jogos, mitologias e basquete 🏀 <br>
-Cursando Análise e Desenvolvimento de Sistemas e Inglês 
+Desenvolvedor Back-end Java. Gosto de alguns jogos, mitologias e basquete 🏀 <br>
+Cursando Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
