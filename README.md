@@ -1,22 +1,14 @@
 # Oi, sou Layrton Silva.
 
 Desenvolvedor Back-end Java. Gosto de alguns jogos, mitologias e basquete 🏀 <br>
-Cursando Análise e Desenvolvimento de Sistemas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Ts" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="node" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,eclipse,mongodb,mysql,docker,aws&theme=dark)](https://skillicons.dev)
+
  
 ##
-<br>
 
-[![codewars](https://www.codewars.com/users/layrtonz/badges/large)](https://www.codewars.com/users/layrtonz)
 <div style="display: inline_block">
 <div> 
   <a href="https://www.instagram.com/layrtonz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,7 +16,7 @@ Cursando Análise e Desenvolvimento de Sistemas
   <a href="https://www.linkedin.com/in/layrtonz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-</div><br/>
+</div>
 
 ## Meus Status
 <div align="left">
