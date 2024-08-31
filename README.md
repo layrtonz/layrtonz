@@ -1,4 +1,4 @@
-# Oi, sou Layrton Silva.
+Oi, sou Layrton Silva.
 
 Desenvolvedor Back-end Java. Gosto de alguns jogos, mitologias e basquete 🏀 <br>
 
