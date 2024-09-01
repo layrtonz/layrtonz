@@ -4,7 +4,7 @@ Desenvolvedor Back-end Java. Gosto de alguns jogos, mitologias e basquete 🏀 <
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,postgres,eclipse,mongodb,mysql,docker,aws,rabbitmq&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,postgres,mysql,mongodb,docker,aws,rabbitmq&theme=dark)](https://skillicons.dev)
 
  
 ##
