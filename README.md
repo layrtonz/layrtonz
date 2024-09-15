@@ -1,6 +1,7 @@
 ### Oi, sou Layrton Silva.
 
-Desenvolvedor Back-end Java. Gosto de alguns jogos, mitologias e basquete 🏀 <br>
+Desenvolvedor Back-end Java. 
+Gosto de alguns jogos, mitologias e basquete 🏀 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,&theme=dark)](https://skillicons.dev)
 
