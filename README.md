@@ -4,7 +4,7 @@ Back-end Developer
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,postgres,mysql,mongodb,docker,aws,rabbitmq&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postgres,mysql,mongodb,docker,postman,aws,rabbitmq&theme=dark)](https://skillicons.dev)
 
  
 ##
