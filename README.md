@@ -1,21 +1,32 @@
-### Oi, sou Layrton Silva.
+<h2> < Oi, sou Layrton Silva /> </h2> 
 
-Back-end Developer
+👨🏼‍💻<b> About me
+<p> Software developer focused on back-end development with JavaScript, Node.js, and PostgreSQL. Currently pursuing a Computer Science degree and building projects to sharpen my skills.
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=git,postgres,mysql,mongodb,docker,postman,aws,rabbitmq&theme=dark)](https://skillicons.dev)
-
+## 
+<img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"/> <b> Technologies That I Know
+<p align="">
  
+![Static Badge](https://img.shields.io/badge/JavaScript-292929?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Node-292929?style=for-the-badge&logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/HTML-292929?style=for-the-badge&logo=html5)
+![Static Badge](https://img.shields.io/badge/Css-292929?style=for-the-badge&logo=css&logoColor=%23d77ba0)
+<br>
+![Static Badge](https://img.shields.io/badge/Git-292929?style=for-the-badge&logo=git)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-292929?style=for-the-badge&logo=postgresql&logoColor=%2394e7ff)
+![Static Badge](https://img.shields.io/badge/MySQL-292929?style=for-the-badge&logo=mysql&logoColor=%2394e7ff)
+![Static Badge](https://img.shields.io/badge/Docker-292929?style=for-the-badge&logo=docker) 
+![Static Badge](https://img.shields.io/badge/Postman-292929?style=for-the-badge&logo=postman)
+![Static Badge](https://img.shields.io/badge/Rabbitmq-292929?style=for-the-badge&logo=rabbitmq)
+![Static Badge](https://img.shields.io/badge/github-292929?style=for-the-badge&logo=github)
 ##
 
-<div style="display: inline_block">
-<div> 
+<p> 📫 Sociais/Contate-me </p>  
+<div align="left" >
   <a href="https://www.instagram.com/layrtonz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="layrtonz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/layrtonz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 </div>
 
 ## Meus Status
