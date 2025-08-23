@@ -29,7 +29,9 @@
   <a href="https://www.linkedin.com/in/layrtonz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Meus Status
+##
+
+<h3> Meus Status </h3>
 <div align="left">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layrtonz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>	
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=layrtonz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
