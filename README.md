@@ -22,18 +22,6 @@
 ![Static Badge](https://img.shields.io/badge/github-292929?style=for-the-badge&logo=github)
 ##
 
-<p> 📫 Sociais/Contate-me </p>  
-<div align="left" >
- 
- ![Static Badge](https://img.shields.io/badge/gmail-292929?style=for-the-badge&logo=gmail)
- ![Static Badge](https://img.shields.io/badge/Linkedin-292929?style=for-the-badge&logo=lospec&logoColor=blue)
- ![Static Badge](https://img.shields.io/badge/Instagram-292929?style=for-the-badge&logo=instagram&logoColor=%23f70a71)
- ![Static Badge](https://img.shields.io/badge/Discord-292929?style=for-the-badge&logo=discord)
- ![Static Badge](https://img.shields.io/badge/Duolingo-292929?style=for-the-badge&logo=duolingo)
-</div>
-
-##
-
 <h3> Meus Status </h3>
 <div align="left">
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layrtonz&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>	
