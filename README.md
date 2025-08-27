@@ -10,6 +10,7 @@
  
 ![Static Badge](https://img.shields.io/badge/JavaScript-292929?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Node-292929?style=for-the-badge&logo=nodedotjs)
+![Static Badge](https://img.shields.io/badge/react-292929?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/HTML-292929?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/Css-292929?style=for-the-badge&logo=css&logoColor=%23d77ba0)
 <br>
