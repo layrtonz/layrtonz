@@ -1,7 +1,7 @@
 <h2> < Oi, sou Layrton Silva /> </h2> 
 
  <h3> <b> Sobre mim 👨🏼‍💻 </h3> </b>
-<p> <b> - Focado em análise de dados, automação e bancos de dados usando Python e SQL e aprendendo outras tecnologias. <br> 
+<p> <b> - Focado em análise de dados, desenvolvimento, automação e bancos de dados usando Python e SQL e aprendendo outras tecnologias. <br> 
  - Estudante de Ciência da Computação <br>
 
 
