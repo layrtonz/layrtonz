@@ -1,9 +1,9 @@
 <h2> < Oi, sou Layrton Silva /> </h2> 
 
-👨🏼‍💻 <b>About me</b>
-<p> <b> Focused on Data Analysis, Automation, and Databases using Python and SQL. Computer Science student exploring back-end development. <br>
-27 years old <br>
-Basketball enthusiast 🏀
+ <h3> <b> Sobre mim 👨🏼‍💻 </h3> </b>
+<p> <b> - Focado em análise de dados, automação e bancos de dados usando Python e SQL e aprendendo outras tecnologias. <br> 
+ - Estudante de Ciência da Computação <br>
+
 
 </b> 
 
